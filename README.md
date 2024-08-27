@@ -1,2 +1,2 @@
 # ayxsmu
-Sisrem Manajemen Mutu Ayoetex
+Sistem Manajemen Mutu Ayoetex
